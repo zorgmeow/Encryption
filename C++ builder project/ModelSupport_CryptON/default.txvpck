@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet version="1.0">
+  <view uin="404oo0g3vv33omlkn_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="cpp:e_class:src:CryptON:TMForm">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="10,10,149,370" />
+      <property name="hideAttribute" value="False" />
+      <reference referencedUin="cpp:e_field:src:CryptON:TMForm.b_help" />
+      <reference referencedUin="cpp:e_field:src:CryptON:TMForm.b_lock" />
+      <reference referencedUin="cpp:e_field:src:CryptON:TMForm.b_open" />
+      <reference referencedUin="cpp:e_field:src:CryptON:TMForm.b_unlock" />
+      <reference referencedUin="cpp:e_field:src:CryptON:TMForm.filen" />
+      <reference referencedUin="cpp:e_field:src:CryptON:TMForm.fpass" />
+      <reference referencedUin="cpp:e_field:src:CryptON:TMForm.l_pass" />
+      <reference referencedUin="cpp:e_field:src:CryptON:TMForm.l_status" />
+      <reference referencedUin="cpp:e_field:src:CryptON:TMForm.n" />
+      <reference referencedUin="cpp:e_field:src:CryptON:TMForm.OpenD" />
+      <reference referencedUin="cpp:e_field:src:CryptON:TMForm.password" />
+      <reference referencedUin="cpp:e_field:src:CryptON:TMForm.y" />
+      <reference referencedUin="cpp:e_method:src:CryptON:TMForm.cmppass()" />
+      <reference referencedUin="cpp:e_method:src:CryptON:TMForm.TMForm(::System::Classes::TComponent*)" />
+      <reference referencedUin="cpp:e_method:src:CryptON:TMForm.passwordChange(::System::TObject*)" />
+      <reference referencedUin="cpp:e_method:src:CryptON:TMForm.b_unlockClick(::System::TObject*)" />
+      <reference referencedUin="cpp:e_method:src:CryptON:TMForm.b_lockClick(::System::TObject*)" />
+      <reference referencedUin="cpp:e_method:src:CryptON:TMForm.b_openClick(::System::TObject*)" />
+      <reference referencedUin="cpp:e_method:src:CryptON:TMForm.b_helpClick(::System::TObject*)" />
+      <reference referencedUin="cpp:e_method:src:CryptON:TMForm.fCoDec(::System::AnsiString!::System::AnsiString!bool)" />
+      <reference referencedUin="cpp:e_method:src:CryptON:TMForm.l_statusClick(::System::TObject*)" />
+    </reference>
+  </view>
+</nodeSet>
